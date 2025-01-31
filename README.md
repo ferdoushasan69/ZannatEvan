@@ -9,8 +9,8 @@
 - 💡 Passionate about building **efficient, scalable, and modern Android**.
 - 💬 Ask me about **Android Development, Jetpack Compose, Firebase,RoomDb,Rest Api,clean**.
 - 📫 How to reach me:  
-  - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mr-zannat-ab5499339/)  
-  - **GitHub:** [ZannatEvan](https://github.com/ZannatEvan)  
+  - **LinkedIn:** [https://www.linkedin.com/in/mr-zannat-ab5499339/](https://www.linkedin.com/in/mr-zannat-ab5499339/)  
+  - **GitHub:** [https://github.com/ZannatEvan](https://github.com/ZannatEvan)  
   - **Email:** [ashesband599@gmail.com](ashesband599@gmail.com)  
 - ⚡ Fun fact: I love exploring **new technologies** and improving app performance. 🚀
 
