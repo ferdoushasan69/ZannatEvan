@@ -29,9 +29,6 @@
 - **Languages:** HTML, CSS, JavaScript
 - **Version Control:** Git, GitHub
 
----
-### 📊 GitHub Stats:
-![Zannat Evan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZannatEvan&show_icons=true&theme=tokyonight)
 
 ### 📌 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatEvan&layout=compact&theme=tokyonight)
