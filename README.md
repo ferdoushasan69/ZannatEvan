@@ -59,12 +59,5 @@ Design Patterns: SOLID Principles, Factory, Singleton, Repository, Use Cases
 
 Agile Methodologies: Scrum, Kanban
 
-### 📌 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatEvan&layout=compact&theme=tokyonight)
-
-### 📊 GitHub Stats:
-![Zannat Evan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZannatEvan&show_icons=true&theme=tokyonight)
-
-
 
 
